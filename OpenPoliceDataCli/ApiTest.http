@@ -1,0 +1,13 @@
+GET https://data.police.uk/api/crimes-at-location?date=2023-02&lat=52.629729&lng=-1.131592
+
+###
+
+GET https://data.police.uk/api/crimes-at-location?lat=52.629729&lng=-1.131592&date=2023-02
+
+###
+
+GET https://data.police.uk/api/forces
+
+### 
+
+GET https://data.police.uk/api/crimes-street-dates
